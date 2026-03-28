@@ -21,7 +21,7 @@ This repository contains end-to-end predictive machine learning projects focusin
 * **Dataset:** 25,480 visa applications
 * **Objective:** Architected machine learning models to predict whether a visa application will be 'Certified' or 'Denied' based on employer characteristics, wages, and applicant demographics.
 * **Techniques:** Data Preprocessing, Class Imbalance Handling (Oversampling/Undersampling), Ensemble Modeling, Hyperparameter Tuning.
-* **Key Results:** [Add a quick sentence here about your best model's accuracy, F1-score, or the most important feature you discovered.]
+* **Key Results:** Evaluated multiple supervised learning and ensemble models, selecting a tuned AdaBoost classifier trained on oversampled data (SMOTE), which achieved a 79.1% F1-score and 82.4% recall. Feature importance analysis revealed that prevailing_wage, company establishment year, and company size were the strongest positive predictors of visa certification. Delivered strategic recommendations to integrate the model into the application review pipeline as a decision support tool to prioritize high-certainty approvals.
 
 ---
 
