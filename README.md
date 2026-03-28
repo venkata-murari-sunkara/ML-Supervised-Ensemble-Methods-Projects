@@ -25,7 +25,7 @@ This repository contains end-to-end predictive machine learning projects focusin
 
 ---
 
-## 🚀 How to Run
+## How to Run
 1. Clone this repository.
 2. The datasets (`INNHotelsGroup.csv`, `EasyVisa.csv`) are included in the root directory.
 3. Open the `.ipynb` files in Jupyter Notebook or Google Colab to view the code and execution states.
